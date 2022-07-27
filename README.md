@@ -35,9 +35,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Tecnologias
 
 > HTML
-> Css
+
+<br/>
+
+> CSS
+
+<br/>
+
 > JavaScript
+
+<br/>
+
 > ReactJS
+
+<br/>
+
 > Styled-Components
+
+<br/>
+
+### Imagens retiradas do unDraw e Pixabay
 
 
